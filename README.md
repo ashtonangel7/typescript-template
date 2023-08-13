@@ -1,2 +1,2 @@
-# BlankTypeScriptNodeProject
- A Blank Typescript Node.js Template 
+A blank typescript project.
+Install nodejs and typescript
